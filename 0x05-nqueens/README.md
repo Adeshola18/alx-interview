@@ -2,7 +2,7 @@
 
 The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. 
 
-## Tasks : page_with_curl
+## Tasks :page_with_curl:
 
 * **0. N queens**
 
